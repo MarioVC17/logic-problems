@@ -20,4 +20,4 @@ function characterCounter(text, char) {
     return count;
 }
 
-// console.log(characterCounter("Control", "o"));
+// console.log(characterCounter('', ''));

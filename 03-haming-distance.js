@@ -20,4 +20,4 @@ function hamingDistance(text1, text2) {
     return count;
 }
 
-// console.log(hamingDistance('hola', 'hola'))
+// console.log(hamingDistance('', ''))

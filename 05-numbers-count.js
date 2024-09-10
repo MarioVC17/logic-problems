@@ -13,4 +13,4 @@ function countNumbers(text) {
     return listNumbers.length;
 }
 
-// console.log(countNumbers("September 09 of 2024"));
+// console.log(countNumbers('September 09 of 2024'));

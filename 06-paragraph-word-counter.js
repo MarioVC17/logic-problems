@@ -20,4 +20,4 @@ function countParagraphWord(text) {
     return listWords;
 }
 
-console.log(countParagraphWord("Hola, adios"));
+// console.log(countParagraphWord(''));

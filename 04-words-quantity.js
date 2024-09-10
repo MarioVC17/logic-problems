@@ -13,4 +13,4 @@ function countWords(text) {
     return words.length;
 }
 
-// console.log(countWords('Hola mundo que tal todo'));
+// console.log(countWords(''));

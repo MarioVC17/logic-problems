@@ -12,4 +12,4 @@ function reverseChain(text) {
     return reverseInformation.join("");
 }
 
-// console.log(reverseChain('Hello'));
+// console.log(reverseChain(''));
